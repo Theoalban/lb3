@@ -1,4 +1,3 @@
-### userdata.sh
 
 #!/bin/bash
 sudo yum update -y

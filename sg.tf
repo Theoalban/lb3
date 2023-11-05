@@ -1,5 +1,5 @@
-## sg.tf 
-## security group
+## Security group
+
 resource "aws_security_group" "lb" {
     name = "lb-sg-dev"
     description = "Allow  http"

@@ -1,6 +1,3 @@
-### Alb.tf
-
-
 # Create a target group
 resource "aws_lb_target_group" "alb-target-group" {
   name     = "application-lb-tg"

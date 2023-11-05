@@ -1,4 +1,3 @@
-### vpc.tf
 
 #Vpc
 resource "aws_vpc" "vpc1" {
